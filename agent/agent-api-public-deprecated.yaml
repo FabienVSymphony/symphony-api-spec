@@ -3669,7 +3669,7 @@ paths:
   /v5/events/read:
     post:
       tags:
-        - Datahose
+        - Datafeed
       summary: Creates and Reads a real time feed of messages and events of your pod (Datahose)
       description: |
         _Available on Agent 22.5.1 and above._
